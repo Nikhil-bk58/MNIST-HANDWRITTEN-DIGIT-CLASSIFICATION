@@ -97,4 +97,4 @@ python mnist_classification.py
 
 ## 👤 Author
 
-* GitHub: [@prajjukorban](https://github.com/prajjukorban?utm_source=gemini)
+* GitHub: [@Nikhil-bk58](https://github.com/Nikhil-bk58/)
